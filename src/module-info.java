@@ -1,0 +1,4 @@
+
+module SmartFactory {
+    exports app;
+}
